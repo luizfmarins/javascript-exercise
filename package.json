@@ -1,0 +1,15 @@
+{
+  "name": "javascript-exercise",
+  "version": "1.0.0",
+  "description": "javascript-exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "luiz.marins",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
